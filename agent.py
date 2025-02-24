@@ -106,7 +106,7 @@ plt.title("Reward Accumulation in Reinforcement Learning")
 plt.grid()
 plt.show()
 
-print("\n🎬 Agent's Movements After Training (Animation) 🎬\n")
+print("\n Agent's Movements After Training (Animation) \n")
 
 fig, ax = plt.subplots()
 ax.axis("off")
